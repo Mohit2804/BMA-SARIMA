@@ -1,2 +1,3 @@
 # BMA-SARIMA
-ASSESSMENT OF STREAMFLOW SIMULATIONS UNDER DROUGHT RISK PROJECTIONS IN TWO INDIAN RIVER BASINS USING BAYESIAN MODEL AVERAGING AND SARIMA METHOD 
+# Project 1 
+Title: Assessment of Streamflow Simulations under Drought Risk Projections in Indian River Basin Ganga using Bayesian Model Averaging and Sarima Method 
